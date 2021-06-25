@@ -7,7 +7,6 @@ Step3 : Run DumperV5.2.exe
 
 Enjoy;)
 
-Or
 
 Working: 25.06.2021
 
