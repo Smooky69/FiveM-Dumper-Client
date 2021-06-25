@@ -2,8 +2,8 @@
 FiveM Dumper that allows you to dump client side files
 
 Step1 : Run dumpFive.exe
- Step2 : Run FiveM.exe
- Step3 : Run DumperV5.2.exe
+\n Step2 : Run FiveM.exe
+\n Step3 : Run DumperV5.2.exe
 
 Enjoy;)
 
